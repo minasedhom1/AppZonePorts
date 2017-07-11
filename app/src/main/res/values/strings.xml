@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppZone Ports</string>
+    <string name="app_title">Appzone Ports</string>
+    <string name="button_name_text">Name</string>
+    <string name="button_port_text">Port</string>
+    <string name="ensure_text">How to ensure number</string>
+    <string name="hint">Please Enter your Phone...</string>
+    <string name="dialogBtn_txt">Submit</string>
+</resources>
